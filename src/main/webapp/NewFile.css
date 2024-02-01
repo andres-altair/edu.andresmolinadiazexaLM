@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.borde{
+	border: solid black ;
+	border-collapse: collapse;
+}
+.todo{
+	background-color: green;
+	color: white;
+}
+.col{
+	background-color: blue;
+	color: white;
+}
+.todo:hover{
+	background-color: skyblue;
+}
+.title{
+	text-decoration: underline coral   ;
+	color: rebeccapurple;
+	text-align: center ;
+	background-color: green;
+	border: none;
+	}
